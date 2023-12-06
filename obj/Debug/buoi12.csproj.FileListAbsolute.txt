@@ -1,0 +1,10 @@
+C:\Users\minhf\source\repos\buoi12\buoi12\bin\Debug\buoi12.exe.config
+C:\Users\minhf\source\repos\buoi12\buoi12\bin\Debug\buoi12.exe
+C:\Users\minhf\source\repos\buoi12\buoi12\bin\Debug\buoi12.pdb
+C:\Users\minhf\source\repos\buoi12\buoi12\obj\Debug\buoi12.csprojAssemblyReference.cache
+C:\Users\minhf\source\repos\buoi12\buoi12\obj\Debug\buoi12.Form1.resources
+C:\Users\minhf\source\repos\buoi12\buoi12\obj\Debug\buoi12.Properties.Resources.resources
+C:\Users\minhf\source\repos\buoi12\buoi12\obj\Debug\buoi12.csproj.GenerateResource.cache
+C:\Users\minhf\source\repos\buoi12\buoi12\obj\Debug\buoi12.csproj.CoreCompileInputs.cache
+C:\Users\minhf\source\repos\buoi12\buoi12\obj\Debug\buoi12.exe
+C:\Users\minhf\source\repos\buoi12\buoi12\obj\Debug\buoi12.pdb
